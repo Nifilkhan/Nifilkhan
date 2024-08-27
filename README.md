@@ -21,7 +21,7 @@
 <a href="https://dev.to/nifil_khan_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nifil_khan_007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nifil-khan-5624912b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nifil-khan-5624912b0" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/nifil khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nifil khan" height="30" width="40" /></a>
-<a href="https://instagram.com/_khanz__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_khanz__" height="30" width="40" /></a>
+<a href="https://instagram.com/__khanz_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_khanz__" height="30" width="40" /></a>
 <a href="https://medium.com/@nifilkhan.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nifilkhan.dev" height="30" width="40" /></a>
 </p>
 
